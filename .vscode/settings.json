@@ -1,0 +1,5 @@
+{
+    "vim.cursorStylePerMode.insert": "block",
+"vim.cursorStylePerMode.normal": "line-thin",
+"vim.cursorStylePerMode.visualline": "underline",
+}
